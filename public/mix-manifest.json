@@ -1,0 +1,13 @@
+{
+    "/assets/js/admin.js": "/assets/js/admin.js",
+    "/assets/js/user.js": "/assets/js/user.js",
+    "/js/admin-home.bundle.js": "/js/admin-home.bundle.js",
+    "/js/user-chat.bundle.js": "/js/user-chat.bundle.js",
+    "/js/user-chat-add.bundle.js": "/js/user-chat-add.bundle.js",
+    "/js/user-home.bundle.js": "/js/user-home.bundle.js",
+    "/js/user-profil.bundle.js": "/js/user-profil.bundle.js",
+    "/js/user-signin.bundle.js": "/js/user-signin.bundle.js",
+    "/js/user-signup.bundle.js": "/js/user-signup.bundle.js",
+    "/js/vendors~user-chat.bundle.js": "/js/vendors~user-chat.bundle.js",
+    "/js/vendors~user-chat~user-chat-add~user-home~user-profil~user-signin~user-signup.bundle.js": "/js/vendors~user-chat~user-chat-add~user-home~user-profil~user-signin~user-signup.bundle.js"
+}
